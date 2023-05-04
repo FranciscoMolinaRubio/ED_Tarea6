@@ -7,6 +7,5 @@ public class Tarea6EDClase_Main {
         Tarea6EDClase miCarrito= new Tarea6EDClase();
         
         miCarrito.aplicarDescuento(100, 5);
-         miCarrito.aplicarDescuento(110, 5);
     }
 }
